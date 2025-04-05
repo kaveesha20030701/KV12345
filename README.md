@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaveesha</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
+<h4 align="center">I am a Second-Year Computer Science undergraduate at Informatics Institute of Technology (IIT), Colombo, affiliated with the University of Westminster, UK.</h4>
 
 - 🔭 I’m currently working on [project Communeo](www.communeo.live)
 
